@@ -12,4 +12,5 @@ This website is here to show my progress on Colt Steele's ['Web Developer Bootca
   - [My first webpage - Including Tables - completed 20/1/18](http://web-dev-bootcamp.adammillington.com/unit4/firstPage.html)
   - [Starter Pokemon tables exercise -  completed 20/1/18](http://web-dev-bootcamp.adammillington.com/unit4/pokemonExercise.html)
   - [HTML forms with basic (required) validation -  completed 20/1/18](http://web-dev-bootcamp.adammillington.com/unit4/forms.html)
-    - [HTML Inputs -  completed 20/1/18](http://web-dev-bootcamp.adammillington.com/unit4/inputs.html)
+  - [HTML Inputs -  completed 20/1/18](http://web-dev-bootcamp.adammillington.com/unit4/inputs.html)
+  - [End of unit HTML form task -  completed 20/1/18](http://web-dev-bootcamp.adammillington.com/unit4/formExercise.html)
