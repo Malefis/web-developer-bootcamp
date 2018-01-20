@@ -4,6 +4,6 @@ This website is here to show my progress on Colt Steele's ['Web Developer Bootca
 ----------
 # Unit 3:
 
- - [My first webpage - using different types of tags](http://web-dev-bootcamp.adammillington.com/unit3/firstPage.html)
- - [Things I've learnt exercise](http://web-dev-bootcamp.adammillington.com/unit3/quiz1.html)
- - [Rusty Steele dog website](http://web-dev-bootcamp.adammillington.com/unit3/quiz2-recreateWebPageAssignment.html)
+ - [My first webpage - using different types of tags - completed 20/1/18](http://web-dev-bootcamp.adammillington.com/unit3/firstPage.html)
+ - [Things I've learnt exercise - completed 20/1/18](http://web-dev-bootcamp.adammillington.com/unit3/quiz1.html)
+ - [Rusty Steele dog website - completed 20/1/18](http://web-dev-bootcamp.adammillington.com/unit3/quiz2-recreateWebPageAssignment.html)
